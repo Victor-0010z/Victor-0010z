@@ -2,8 +2,6 @@
 
  <div>
    <a href="https://github.com/Victor-0010z">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-0010z&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-0010z&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
